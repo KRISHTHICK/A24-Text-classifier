@@ -1,0 +1,9 @@
+Start Ollama with a local model:
+
+ollama run llama3
+Install dependencies:
+
+pip install streamlit ollama
+Launch the app:
+
+streamlit run topic_classifier_ollama.py
